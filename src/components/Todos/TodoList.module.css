@@ -1,0 +1,23 @@
+.todolist__header {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1.5rem;
+    background-color: #e6f5f8;
+}
+.todo__form {
+    width: 100%;
+}
+
+.todolist__container {
+    height: 560px;
+    background-color: #f6f7f8;
+}
+.row_container {
+    max-width: 1500px;
+    gap: 1rem;
+    margin: 0 auto;
+}
